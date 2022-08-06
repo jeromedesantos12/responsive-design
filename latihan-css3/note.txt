@@ -1,0 +1,15 @@
+ASSET
+- Full Size: 600x800px
+- Thumbnail: 120px
+- Font: Bebas Neue (.woff)
+
+STRUKTUR FOLDER
+- gallery
+  - css
+  - img
+    - full
+    - thumbs
+  - fonts
+
+BROWSER TERBARU
+- Google Chrome
